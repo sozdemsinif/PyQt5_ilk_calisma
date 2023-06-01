@@ -150,9 +150,21 @@
        </column>
        <column>
         <property name="text">
+         <string>New Column</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
          <string>2</string>
         </property>
        </column>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPushButton" name="btn_sil">
+       <property name="text">
+        <string>SİL</string>
+       </property>
       </widget>
      </item>
     </layout>
